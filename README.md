@@ -95,11 +95,11 @@ Passionate about transforming raw data into meaningful insights and developing t
 
 ## 🌟 Highlights
 
-*✅ Enterprise BI reporting experience
-*✅ Full-stack development capabilities
-*✅ Dashboard & data visualization expertise
-*✅ Strong Java & Python foundation
-*✅ Quick learner & problem solver
+* ✅ Enterprise BI reporting experience
+* ✅ Full-stack development capabilities
+* ✅ Dashboard & data visualization expertise
+* ✅ Strong Java & Python foundation
+* ✅ Quick learner & problem solver
 
 ---
 
